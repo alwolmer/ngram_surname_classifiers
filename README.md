@@ -1,6 +1,6 @@
-# A review of n-grammatical classifiers applied to the ancestry of Brazilian surnames
+# Mapping Ancestry through Surnames: Machine Learning Approaches Applied to Brazilian Data
 
-This repository contains the full codebase, data pipeline, and trained models associated with the research article **"A review of n-grammatical classifier approaches applied to the ancestry of Brazilian surnames"**, submitted to the KDMiLe 2025 conference.
+This repository contains the full codebase, data pipeline, and trained models associated with the research article **"Mapping Ancestry through Surnames: Machine Learning Approaches Applied to Brazilian Data"**, submitted to the KDMiLe 2025 conference.
 
 The study proposes and compares character-based n-gram models and graph-based classifiers (LIGA) to infer ethnic ancestry from historical surnames in Brazil, using a large-scale, scraped dataset from **Registro Nacional de Estrangeiros (RNE)** entries.
 
